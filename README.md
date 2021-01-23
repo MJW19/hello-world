@@ -2,5 +2,5 @@
 
 Hi People.
 
-I'm Mikey. Having loads of fun learning web development. Playing around with git and github.
+My name is Mikey. Having lots of fun learning web development. Playing around with git and github.
 
